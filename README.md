@@ -1,11 +1,9 @@
-Here’s your **final `README.md`** (with your screenshot name and ready for GitHub):
 
 ````markdown
 # 🌍 Global Currency Converter
 
 A modern, responsive web application for real-time currency conversion with advanced features like historical charts, favorites, and PDF export.  
 
-![Global Currency Converter UI](GLOBAL%20CURRENCY%20CONVERTER%20UI.png)
 
 ---
 
